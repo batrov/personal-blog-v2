@@ -1,7 +1,7 @@
 {
-  "name": "MERN-Boilerplate",
+  "name": "personal-blog-v2",
   "version": "1.0.0",
-  "description": "This boilerplate is based on MERN shopping list by Traversy Media",
+  "description": "This is an updated version of personal blog, which based on MERN stack by Traversy Media",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
