@@ -1,0 +1,22 @@
+{
+  "name": "MERN-Boilerplate",
+  "version": "1.0.0",
+  "description": "This boilerplate is based on MERN shopping list by Traversy Media",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Batrov",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^4.1.1",
+    "config": "^3.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
